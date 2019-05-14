@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Find the last element of a list
+// Find the last but one element of a list
 
 #define MAX_LIST 10000
 
@@ -11,7 +11,7 @@ int lastElement(int list[])
 	{
 		i ++;
 	}
-	return list[i - 1];
+	return list[i - 2];  // -2
 }
 
 int main(void)
