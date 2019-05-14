@@ -44,7 +44,7 @@ These are my solutions to the 99-problems in differents languagues
    * 2.07 (**) Determine the greatest common divisor of two positive integer numbers. 
    * 2.08 (*) Determine whether two positive integer numbers are coprime. 
    * 2.09 (**) Calculate Euler's totient function phi(m).
-   * 2.10 (**) Calculate Euler's totient function phi(m) (2). 
+   * 2.10 (**) Calculate Euler's totient function phi(m) (2) (improved).
    * 2.11 (*) Compare the two methods of calculating Euler's totient function. (efficiency)
 3. Logic and codes
     * 3.01 (**) Truth tables for logical expressions.
