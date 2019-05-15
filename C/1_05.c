@@ -28,8 +28,6 @@ int main(void)
     {
         printf("%d : ", array[i]);
     }
-    
 
     return 1;
 }
-
