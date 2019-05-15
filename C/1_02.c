@@ -28,12 +28,12 @@ int main(void)
 
 #include <stdio.h>
 
-#define ArrLenght(a) (sizeof(a) / sizeof((a)[0]))
+#define ArrLength(a) (sizeof(a) / sizeof((a)[0]))
 
 int main(void)
 {
 	int array[] = {1, 2, 3, 4, 5, 6, 7, 8};
-	size_t n = ArrLenght(array);
+	size_t n = ArrLength(array);
 	printf("Last element of an array: %ld", array[n - 2]);
 
 	return 1;
