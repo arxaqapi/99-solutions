@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-#define ArrLenght(a) (sizeof(a) / sizeof((a)[0]))
+#define ArrLength(a) (sizeof(a) / sizeof((a)[0]))
 
 int main(void)
 {
