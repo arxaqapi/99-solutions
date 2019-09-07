@@ -3,7 +3,8 @@
 These are my solutions to the 99-problems in differents languagues
 
 ## 99-problems
-[Original Prolog list and more detailled problems](https://sites.google.com/site/prologsite/prolog-problems/1)
+[Original Prolog list and more details about the problems](https://sites.google.com/site/prologsite/prolog-problems/1)
+
 1. Lists
    * 1.01 (*) Find the last element of a list
    * 1.02 (*) Find the last but one element of a list
@@ -11,7 +12,7 @@ These are my solutions to the 99-problems in differents languagues
    * 1.04 (*) Find the number of elements of a list
    * 1.05 (*) Reverse a list
    * 1.06 (*) Find out whether a list is a palindrome.
-   * 1.07 (**) Flatten a nested list structure.
+   * 1.07 (**) Flatten a nested list structure. (recursively)
    * 1.08 (**) Eliminate consecutive duplicates of list elements.
    * 1.09 (**) Pack consecutive duplicates of list elements into sublists.
    * 1.10 (*) Run-length encoding of a list. 
