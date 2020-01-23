@@ -10,6 +10,6 @@ def compress(lst):
             i += 1
     return lst
 
-liste = [1,1,1,2,2,2,3,4,5, 5, 5, 5, 5]
+liste = [1,1,1,2,2,2,3,4,5, 5, 5, 5, 5, 7,7, 7,7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 10, 10]
 
 print(compress(liste))
